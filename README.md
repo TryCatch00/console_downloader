@@ -1,6 +1,6 @@
 <div align="center" id="readme-top">
   <a href="https://github.com/p0unter/console_downloader">
-    <img src="https://github.com/user-attachments/assets/c7542326-7075-42bb-b297-15fa4d2df0f8" alt="Logo" width="150" height="150">
+    <img src="https://github.com/user-attachments/assets/8c355c27-7f24-4bcc-929f-935c885f42da" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Console Downloader</h3>
@@ -122,4 +122,6 @@ Anyone who wants to contribute to this project is welcome to do so. Please send 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![v1imza_min](https://github.com/user-attachments/assets/a097dd95-711a-49ac-a8b3-f623d92ee959)
+![v1imza_min](https://github.com/user-attachments/assets/74f2e537-243b-43f7-a1cc-e9128db5ccd1)
+![malikoreissebe](https://github.com/user-attachments/assets/4abac2e7-2372-4b9d-99fd-97d5c1dcd954)
+
